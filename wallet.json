@@ -1,6 +1,5 @@
 {
-  "address": "oct6tPZYzd1PoQMWsU3XZvKxcB32HAA3sMCVhbjGRp3phsU",
-  "public": "fTdC8MhXSsAIy1CxEeR1ORvfgmsTUOJyg1W70jBk2qk=",
-  "private": "FGLJUWIrIbg/L/ZiLicVhT0ZahEsG+5U/t0PasdrUPU="
+  "priv": "FGLJUWIrIbg/L/ZiLicVhT0ZahEsG+5U/t0PasdrUPU=",
+  "addr": "oct6tPZYzd1PoQMWsU3XZvKxcB32HAA3sMCVhbjGRp3phsU",
+  "rpc": "https://octra.network"
 }
-
